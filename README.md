@@ -42,4 +42,4 @@ npm run dev
 ```
 
 ### Contexto da aplicação
-[Link para o layout da aplicação que utilizaria essa API.](https://www.figma.com/community/file/1218573349379609244)
+[Link para o layout da aplicação que utilizaria essa API.](https://www.figma.com/community/file/1218573349379609244) - @Rocketseat
